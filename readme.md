@@ -5,6 +5,7 @@ I am currently working as a Data Analyst at a bank. In this portfolio, I am exci
 **[Limit management](https://github.com/quynhnguyenuet/Project-Banking-Data-Analyst-/tree/main/LIMIT%20DASHBOARD):**
 Provides an overview, monitoring, and control of the bank's limits, including new limits, renewal limits, utinization limit, etc., thereby providing Board of Directors and business units have an overview of monitoring limits from week to week
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/quynhnguyenuet/Project-Banking-Data-Analyst-/blob/main/LIMIT%20DASHBOARD/image/Tong%20quan.png" alt="Limit Management Overview" style="width: 48%;"/>
-    <img src="https://github.com/quynhnguyenuet/Project-Banking-Data-Analyst-/blob/main/LIMIT%20DASHBOARD/image/Huong%20dan%20su%20dung.png" style="width: 48%;"/>
+    <img src="https://github.com/quynhnguyenuet/Project-Banking-Data-Analyst-/blob/main/LIMIT%20DASHBOARD/image/Tong%20quan.png" alt="Limit Management Overview" style="width: 100%;"/>
+    <img src="https://github.com/quynhnguyenuet/Project-Banking-Data-Analyst-/blob/main/LIMIT%20DASHBOARD/image/Huong%20dan%20su%20dung.png" style="width: 100%;"/>
 </div>
+
