@@ -24,3 +24,8 @@ You can view sample data from this project [here](https://github.com/quynhnguyen
 - [ ] Preprocess and clean data, design data structure to prepare for visualization
 - [ ] Data visualization and insight analysis
 ### Some results 
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/quynhnguyenuet/Project-Banking-Data-Analyst-/blob/main/Crawling%20data%20nha%20thau/image/G%C3%B3i%20th%E1%BA%A7u.png" style="width: 150%;"/>
+    <img src="https://github.com/quynhnguyenuet/Project-Banking-Data-Analyst-/blob/main/Crawling%20data%20nha%20thau/image/DSCT.png" style="width: 150%;"/>
+    <img src="https://github.com/quynhnguyenuet/Project-Banking-Data-Analyst-/blob/main/Crawling%20data%20nha%20thau/image/LSDT.png" style="width: 150%;"/>
+</div>
