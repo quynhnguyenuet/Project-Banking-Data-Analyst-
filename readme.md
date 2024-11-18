@@ -12,3 +12,8 @@ Provides an overview, monitoring, and control of the bank's limits, including ne
 **[Crawling Bidding Package and Contractor Data from the National Bidding Portal](https://github.com/quynhnguyenuet/Project-Banking-Data-Analyst-/tree/main/Crawling%20data%20nha%20thau):**
 
 This project focuses on collecting data related to bidding packages and contractors from the national bidding information portal. The collected data serves as a basis for analyzing and identifying potential clients involved in guarantee bidding activities, providing valuable insights for strategic decision-making and targeted business efforts.
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/quynhnguyenuet/Project-Banking-Data-Analyst-/blob/main/Crawling%20data%20nha%20thau/image/T%E1%BB%95ng%20quan.png" style="width: 150%;"/>
+    <img src="https://github.com/quynhnguyenuet/Project-Banking-Data-Analyst-/blob/main/Crawling%20data%20nha%20thau/image/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng.png" style="width: 150%;"/>
+</div>
+
