@@ -15,5 +15,12 @@ This project utilizes Python to extract data related to bidding packages, includ
   - Excel (Data visualization)
 ### Website:
 Data is pulled from the website: [https://muasamcong.mpi.gov.vn/](https://muasamcong.mpi.gov.vn/)
+### Example Data:
+You can view sample data from this project [here](https://github.com/quynhnguyenuet/Project-Banking-Data-Analyst-/blob/main/Crawling%20data%20nha%20thau/example.xlsx).
 ### Task List:
-
+- [ ] Learn about the site and the information needed to crawl data
+- [ ] Set up the environment and install relevant libraries
+- [ ] Crawl and push data to SQL Database
+- [ ] Preprocess and clean data, design data structure to prepare for visualization
+- [ ] Data visualization and insight analysis
+### Some results 
