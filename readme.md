@@ -8,6 +8,12 @@ Provides an overview, monitoring, and control of the bank's limits, including ne
     <img src="https://github.com/quynhnguyenuet/Project-Banking-Data-Analyst-/blob/main/LIMIT%20DASHBOARD/image/Tong%20quan.png" alt="Limit Management Overview" style="width: 150%;"/>
     <img src="https://github.com/quynhnguyenuet/Project-Banking-Data-Analyst-/blob/main/LIMIT%20DASHBOARD/image/Huong%20dan%20su%20dung.png" style="width: 150%;"/>
 </div>
+**[Account Planning](https://github.com/quynhnguyenuet/Project-Banking-Data-Analyst-/tree/main/Account%20Planning):**
+ACP (Account Planning) is a strategic business planning tool designed to help banking business units maximize the potential of corporate clients. By developing comprehensive client profiles, analyzing business models and growth directions, ACP enables the bank to tailor financial solutions that align with each stage of the client’s development. This approach enhances service effectiveness, strengthens long-term relationships, and drives sustainable profitability from key corporate accounts.
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/quynhnguyenuet/Project-Banking-Data-Analyst-/blob/main/Account%20Planning/image/Gioi%20thieu%20ACP.jpg" alt="ACP Introduction" style="width: 150%;"/>
+    <img src="https://github.com/quynhnguyenuet/Project-Banking-Data-Analyst-/blob/main/Account%20Planning/image/Su%20dung.jpg" style="width: 150%;"/>
+</div>
 
 **[Crawling Bidding Package and Contractor Data from the National Bidding Portal](https://github.com/quynhnguyenuet/Project-Banking-Data-Analyst-/tree/main/Crawling%20data%20nha%20thau):**
 
